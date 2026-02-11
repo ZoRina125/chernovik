@@ -15,10 +15,13 @@
 
 - Открыли консоль разработчика (F12 → Console).
 - Написали команду console.log("Hello, world!"); и нажали Enter.
-- Записали в консоль 2 + 3 и получили такой результат:
+
 <img width="1116" height="230" alt="Screenshot 2026-02-10 221234" src="https://github.com/user-attachments/assets/413bc40a-dfe3-4695-bb02-b56ce1f290f9" />
 
-  
+- Записали в консоль 2 + 3 и получили такой результат:
+
+<img width="530" height="130" alt="Screenshot 2026-02-11 172642" src="https://github.com/user-attachments/assets/1dc0099f-4754-47ff-a953-f051d6e9e7d5" />
+
 3. Создание первой HTML-страницы с JavaScript
 - Создаем файл index.html и вставляем в него следующий код:
 
